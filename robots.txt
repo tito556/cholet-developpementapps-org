@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cholet.developpementapps.org/sitemap.xml
